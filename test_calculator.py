@@ -1,7 +1,5 @@
 
-#https://github.com/olliegaming2201-ux/Lab11-Oliver-Fuentes
-
-#only one partner
+https://github.com/olliegaming2201-ux/Lab11-Oliver-Fuentes.git
 
 import unittest
 from calculator import *
