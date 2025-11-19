@@ -3,6 +3,10 @@ calculator.py
 - Defines functions used to create a simple calculator
 
 One function per operation, in order.
+
+https://github.com/olliegaming2201-ux/Lab11-Oliver-Fuentes
+
+only one partner
 """
 import math
 
